@@ -1,7 +1,7 @@
 # JS-algorithms
 Algorithms Implementations
 
-| [JavaScript]            |
+| JavaScript              |
 | ----------------------- |
 | [Dijkstra][dijkstra-js] |
 
