@@ -1,8 +1,10 @@
 # JS-algorithms
-Algorithms Implementations
+JavaScript Algorithms
 
-| JavaScript              |
+| Implementations         |
 | ----------------------- |
 | [Dijkstra][dijkstra-js] |
+| [Interval][interval-js] |
 
 [dijkstra-js]: algorithms/dijkstra.js
+[interval-js]: algorithms/interval.js
