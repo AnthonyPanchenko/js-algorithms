@@ -19,6 +19,7 @@ function dfs(start, nodes, callback) {
     callback(visitedNodes);
 };
 
+// The graph is built according to > ../img/Depth-First-Search-Algorithm.gif
 var nodes = {
     "1": [2, 5, 9],
     "2": [3],
